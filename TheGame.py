@@ -36,7 +36,7 @@ if keuze1 == 'spoon':
             keuze4 = input('You choose the red door. You see a large window on the left where the blue door would have been and see yourself dying. You sigh with relief. You walk out and see a helicopter and an 8x8 offroad truck, which one do you choose? heli/8x8: ')
             if keuze4 == 'heli':
                 clear()
-                print('You choose the helicopter. You try to start it but it doesn\'t work, you try again and the helicopter explodes while you are sitting inside, you instantly turn into ashes... RIP ')
+                print('You choose the helicopter. You try to start it but it doesn\'t work, you try again and the helicopter explodes while you are sitting inside, you instantly turn into ashes... RIP ')                                   
             elif keuze4 == '8x8':
                 clear()
                 keuze5 = input('You choose the 8x8 Offroad truck. You drive into a cave filled with sleeping dogs, you are afraid to wake them up but see a key and a lock pick set laying on the ground, you can only take 1 with you, which one do you choose? key/lockpick: ')
@@ -108,9 +108,7 @@ elif keuze1 == 'backpack':
                 clear()
                 print('You ask the dragon to help, the dragon says yes and you call in the entire Zimbabwean army. First you take over all of Africa, then Europe, Russia and Asia.')
                 print('When you come to the USA you have a bit of trouble but eventually conquer it. ')
-                print('One day you are sitting in the white house and the dragon pays you a visit.')
-                print('He eats you and you die of suffocation...RIP')
-
+                print('You now own the whole world...WIN')                
 
 input('')
 clear()
