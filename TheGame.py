@@ -115,7 +115,3 @@ elif keuze1 == 'backpack':
 input('')
 clear()
     
-    #subkeuze1 = ('You see a beaker laying on the ground, do you take it? yes/no: ')
-    #if subkeuze1 == 'yes':
-
-
